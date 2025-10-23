@@ -1,0 +1,6 @@
+ssh -i "C:\Users\profslvo\Desktop\chaveAPI.pem" ubuntu@ec2-56-124-109-184.sa-east-1.compute.amazonaws.com
+
+sudo cat /var/lib/jerkins/secrets/initialAdminPassword
+06e79b21307346e38bbccfe4b112e70c
+
+http://56.124.109.184:8080
